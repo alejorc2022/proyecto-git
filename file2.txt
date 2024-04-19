@@ -1,2 +1,2 @@
 prueba git 2
-nueva rama
+nueva rama master
